@@ -1,2 +1,2 @@
 # MultiConnectionId
-Script que permite varias conexoes e receber dados ao mesmo tempo, cada cliente conectado possui um id.
+A script that allows multiple connections and receives data simultaneously, with each connected client having an ID.
